@@ -13,6 +13,7 @@ vector<string> split(const string &);
  * The function accepts following parameters:
  *  1. INTEGER_ARRAY a
  *  2. INTEGER d
+ * https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
  */
 
 vector<int> rotLeft(vector<int> a, int d)
