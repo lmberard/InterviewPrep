@@ -1,5 +1,10 @@
-# Software Engineer Interview Questions - C++
+# Software Engineer Interview Questions
 
+## Languages:
+- C++
+- Python
+
+## Questions:
 - HackerRank examples
 - Data Structures
 - Algorithms
